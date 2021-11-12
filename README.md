@@ -1,4 +1,32 @@
-### Hi there 👋
+### Hi there, I am Bishajit Lodh 👋
+
+<h2 align="left">:hammer_and_wrench:These are the technologies and Tools I use:</h2>
+<p align="left">
+    <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
+    <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
+    <a href="https://aws.amazon.com/" target="_blank"> <img
+            src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="aws" width="40" height="40" />  </a>
+    <a href="https://flask.palletsprojects.com/en/2.0.x/" target="_blank"> <img
+            src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40" />  </a>
+    <a href="https://kubernetes.io/" target="_blank"> <img
+            src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40" />  </a>
+    <a href="https://www.docker.com/" target="_blank"> <img
+            src="https://www.vectorlogo.zone/logos/docker/docker-official.svg" alt="docker" width="40" height="40" />  </a>
+    <a href="https://www.python.org/" target="_blank"> <img
+            src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="40" height="40" />  </a>
+     <a href="https://www.jenkins.io/" target="_blank"> <img
+            src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40" />  </a>
+ 
+<h2 align="left">👨🏻‍💻 About Me:</h2>
+
+- :computer: I an currently a infrastructure automation fellow at Kura Labs
+- I was born in Dhaka, Bangladesh
+- Currently residing in Queens, New York.
+- I have a BA in Media Studies.
+
+<h2 align="left">:heart: Let's get connected:</h2>
+
+[![Linkedin Badge](https://img.shields.io/badge/-sivramshastri-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.https://www.linkedin.com/in/bishajit-lodh-9325b3209/)](https://www.www.linkedin.com/in/bishajit-lodh)
 
 <!--
 **Bishajit/Bishajit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
