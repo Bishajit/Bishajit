@@ -26,7 +26,7 @@
 
 <h2 align="left">:heart: Let's get connected:</h2>
 
-[![Linkedin Badge](https://img.shields.io/badge/-sivramshastri-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.https://www.linkedin.com/in/bishajit-lodh-9325b3209/)](https://www.www.linkedin.com/in/bishajit-lodh)
+[![Linkedin Badge](https://img.shields.io/badge/-bishajit-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.https://www.linkedin.com/in/bishajit-lodh-9325b3209/)](https://www.www.linkedin.com/in/bishajit-lodh)
 
 <!--
 **Bishajit/Bishajit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
