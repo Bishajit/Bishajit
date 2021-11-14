@@ -23,6 +23,7 @@
 - I was born in Dhaka, Bangladesh
 - Currently residing in Queens, New York.
 - I have a BA in Media Studies.
+- Working towards a career in DevOps
 
 <h2 align="left">:heart: Let's get connected:</h2>
 
