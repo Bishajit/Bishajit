@@ -14,7 +14,7 @@
             src="https://www.vectorlogo.zone/logos/docker/docker-official.svg" alt="docker" width="40" height="40" />  </a>
     <a href="https://www.python.org/" target="_blank"> <img
             src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="40" height="40" />  </a>
-     <a href="https://www.jenkins.io/" target="_blank"> <img
+    <a href="https://www.jenkins.io/" target="_blank"> <img
             src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40" />  </a>
  
 <h2 align="left">👨🏻‍💻 About Me:</h2>
