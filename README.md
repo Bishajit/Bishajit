@@ -23,6 +23,7 @@
 - I was born in Dhaka, Bangladesh
 - Currently residing in Queens, New York.
 - Working towards a career in DevOps
+- Love to learn and enhance my skills. 
 
 <h2 align="left">:heart: Let's get connected:</h2>
 
