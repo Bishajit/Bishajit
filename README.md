@@ -19,8 +19,8 @@
  
 <h2 align="left">👨🏻‍💻 About Me:</h2>
 
-- :computer: I an currently a infrastructure automation fellow at Kura Labs
-- I was born in Dhaka, Bangladesh
+- :computer: I an currently a infrastructure automation fellow at Kura Labs.
+- I was born in Dhaka, Bangladesh.
 - Currently residing in Queens, New York.
 - Working towards a career in DevOps
 - Love to learn and enhance my skills. 
