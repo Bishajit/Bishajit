@@ -16,6 +16,14 @@
             src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="40" height="40" />  </a>
     <a href="https://www.jenkins.io/" target="_blank"> <img
             src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40" />  </a>
+    <a href="https://www.terraform.io/" target="_blank"> <img
+            src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" alt="terraform" width="40" height="40" />   </a>
+    <a href="https://www.ansible.com/" target="_blank"> <img
+            src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg" alt="ansible" width="40" height="40" />   </a>
+         <a href="https://github.com/" target="_blank"> <img
+            src="https://www.vectorlogo.zone/logos/github/github-tile.svg" alt="github" width="40" height="40" />   </a>
+    <a href="https://aws.amazon.com/" target="_blank"> <img
+            src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="aws" width="40" height="40" />   </a>
  
 <h2 align="left">👨🏻‍💻 About Me:</h2>
 
@@ -23,6 +31,7 @@
 - I was born in Dhaka, Bangladesh.
 - Currently residing in Queens, New York.
 - Working towards a career in DevOps
+- Exploring and mastering new tools such as Jenkins, Python, Docker, Kubernetes, AWS, Terraform...
 - Love to learn and enhance my skills. 
 
 <h2 align="left">:heart: Let's get connected:</h2>
