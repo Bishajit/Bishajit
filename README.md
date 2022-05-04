@@ -22,8 +22,10 @@
             src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" alt="terraform" width="40" height="40" />   </a>
     <a href="https://www.ansible.com/" target="_blank"> <img
             src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg" alt="ansible" width="40" height="40" />   </a>
-         <a href="https://github.com/" target="_blank"> <img
+    <a href="https://github.com/" target="_blank"> <img
             src="https://www.vectorlogo.zone/logos/github/github-tile.svg" alt="github" width="40" height="40" />   </a>
+    <a href="https://www.mysql.com/" target="_blank"> <img
+            src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg" alt="mysql" width="40" height="40" />   </a>
 
  
 <h2 align="left">👨🏻‍💻 About Me:</h2>
