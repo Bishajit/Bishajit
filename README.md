@@ -14,10 +14,6 @@
             src="https://www.vectorlogo.zone/logos/docker/docker-official.svg" alt="docker" width="40" height="40" />  </a>
     <a href="https://www.python.org/" target="_blank"> <img
             src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="40" height="40" />  </a>
-    <a href="https://flask.palletsprojects.com/en/2.0.x/" target="_blank"> <img
-            src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40" />   </a>
-    <a href="https://www.jenkins.io/" target="_blank"> <img
-            src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40" />  </a>
     <a href="https://www.terraform.io/" target="_blank"> <img
             src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" alt="terraform" width="40" height="40" />   </a>
     <a href="https://www.ansible.com/" target="_blank"> <img
