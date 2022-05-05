@@ -26,6 +26,8 @@
             src="https://www.vectorlogo.zone/logos/github/github-tile.svg" alt="github" width="40" height="40" />   </a>
     <a href="https://www.mysql.com/" target="_blank"> <img
             src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg" alt="mysql" width="40" height="40" />   </a>
+     <a href="https://sass-lang.com" target="_blank">   <img
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass"
 
  
 <h2 align="left">👨🏻‍💻 About Me:</h2>
