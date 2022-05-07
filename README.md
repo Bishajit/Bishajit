@@ -23,7 +23,7 @@
     <a href="https://sass-lang.com" target="_blank">   <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass"
             width="40" height="40" />   </a>
-    <a href="https://www.linux.com/" target="_blank"> <img
+    <a href="https://www.linux.org/" target="_blank"> <img
             src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg" alt="linux" width="40" height="40" />   </a>
 
 
